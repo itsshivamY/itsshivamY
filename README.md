@@ -75,6 +75,10 @@ If you find my projects helpful, consider supporting my learning and development
 
 > "OUR MINDSET SHAPES OUR FUTURE."
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsshivamY/itsshivamY/output/snake.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 ## 👀 Profile Visitors:
