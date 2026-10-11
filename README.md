@@ -75,8 +75,13 @@ If you find my projects helpful, consider supporting my learning and development
 
 > "OUR MINDSET SHAPES OUR FUTURE."
 
+<!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itsshivamY/itsshivamY/output/snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshivamY/itsshivamY/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshivamY/itsshivamY/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/itsshivamY/itsshivamY/output/snake.svg" alt="GitHub Contribution Snake">
+  </picture>
 </div>
 
 ---
